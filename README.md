@@ -6,8 +6,8 @@ How do I approach designing software?
   
   What new design skills has your work on the project helped you to craft?
   
-    This project showed me another way to look at a larger program and break it down. By breaking down larger objects into many different shapes, it further pushed the ideology that any large program can be made easier by implementing smaller parts in a controlled fashion.
-    
+  This project showed me another way to look at a larger program and breat it down.  By breaking down larger objects into many different shapes, it further pushed the idea that any large program can be made easier by implementing smaller parts in a controlled fashion.
+      
   What design process did you follow for your project work?
   
   I followed the process of making sure that each smaller part of the program was working as expected prior to going to another part.  This helped me to control the number of changes that were made better so if something wasn't working correctly it was easier to find where the error was.
