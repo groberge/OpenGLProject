@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(349,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(378,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(379,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(386,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(387,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(394,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(395,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(402,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(403,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(411,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(412,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(545,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(559,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(572,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(587,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(617,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(429,9): warning C4101: 'modelLoc': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(431,9): warning C4101: 'projLoc': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(425,13): warning C4101: 'scale': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(428,13): warning C4101: 'projection': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(426,13): warning C4101: 'rotation': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(427,13): warning C4101: 'translation': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(430,9): warning C4101: 'viewLoc': unreferenced local variable
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(743,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(744,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(748,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(749,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(750,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(751,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(760,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(1113,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(1114,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(1115,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(1117,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\OpenGLSample\Source.cpp(1118,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\grobe\Desktop\WorkingOpenGL\Mod7-FinalProject-InProgress\WorkingSphere\OpenGLSample\Debug\OpenGLSample.exe
